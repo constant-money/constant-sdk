@@ -1,0 +1,10 @@
+.idea
+.pytest_cache
+deployments
+deployments.tar
+src/media
+src/static
+src/conf/*.json
+src/conf/settings/local*.py
+src/assets/*
+*/__pycache__
